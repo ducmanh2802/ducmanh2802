@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java Developer at Kaopiz
+- 🔭 I’m currently working on Java Developer at Samsung SDS
 - 🌱 I’m currently graduated from VNUA 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Java Spring boot, ReactJS, VueJS
